@@ -1,0 +1,23 @@
+com/example/listapplication/databinding/ContentMainBinding.java
+ com.example.listapplication.databinding.ContentMainBinding
+com/example/listapplication/databinding/FragmentFirstBinding.java
+ com.example.listapplication.databinding.FragmentFirstBinding
+com/example/listapplication/MainActivity.java
+ com.example.listapplication.MainActivity
+ com.example.listapplication.MainActivity$1
+ com.example.listapplication.MainActivity$2
+ com.example.listapplication.MainActivity$3
+ com.example.listapplication.MainActivity$4
+ com.example.listapplication.MainActivity$5
+com/example/listapplication/SecondFragment.java
+ com.example.listapplication.SecondFragment
+ com.example.listapplication.SecondFragment$1
+com/example/listapplication/BuildConfig.java
+ com.example.listapplication.BuildConfig
+com/example/listapplication/databinding/ActivityMainBinding.java
+ com.example.listapplication.databinding.ActivityMainBinding
+com/example/listapplication/databinding/FragmentSecondBinding.java
+ com.example.listapplication.databinding.FragmentSecondBinding
+com/example/listapplication/FirstFragment.java
+ com.example.listapplication.FirstFragment
+ com.example.listapplication.FirstFragment$1
